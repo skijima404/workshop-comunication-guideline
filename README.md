@@ -11,3 +11,4 @@
 
 ## コンテンツ
 - [参加者コミュニケーションガイドライン](./docs/participant-guideline.md)
+- [チームファシリテーターガイドライン](./docs/team-facilitator-guideline.md)
